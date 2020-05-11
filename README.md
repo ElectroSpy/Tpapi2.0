@@ -1,4 +1,4 @@
-# jackapi
+# DevJokes
 
 ## Project setup
 ```
